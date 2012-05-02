@@ -8,5 +8,5 @@ It's a VERY simple polish notation calculator (based on [this example](http://ww
 
 ```
 make
-./zurec
+./zurek
 ```
