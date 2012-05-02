@@ -1319,7 +1319,7 @@ yyreduce:
 
 /* Line 1455 of yacc.c  */
 #line 17 "zurek.y"
-    { printf ("\t%.10g\n", (yyvsp[(1) - (2)])); ;}
+    { printf ("= %.10g\n", (yyvsp[(1) - (2)])); ;}
     break;
 
   case 6:
